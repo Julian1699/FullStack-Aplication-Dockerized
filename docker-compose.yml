@@ -1,19 +1,20 @@
 version: "3.9"
 
 services:
-  #new app (angular_app)
+  #App (React - Frontend)
   reac:
     container_name: reac
     image: reac:1.0.0
-    build: "../frontend-rh"
+    build: "./frontend-rh"
     ports:
       - 3000:3000
     depends_on:
       - springboot
+  #App (Springboot - Backend)
   springboot:
     container_name: springboot
     image: springboot:1.0.0
-    build: .
+    build: "./backend-rh"
     ports:
       - 8080:8080
     environment:
@@ -22,6 +23,7 @@ services:
       - DATABASE_PASSWORD=123456
     depends_on:
       - postgres_db
+  #App (Postgres - Data Base)
   postgres_db:
     container_name: postgres_db
     image: postgres:12
