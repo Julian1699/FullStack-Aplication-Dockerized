@@ -1,6 +1,20 @@
 # FullStack-Aplication-Dockerized
 | React | SpringBoot | PostgreSQL | Docker |
 
+
+  ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/f280a804-7cda-4f7c-815b-cc09b9252262)
+
+- Para desplegar la aplicacion con Docker, es necesario tener instalado "Docker Desktop" y abrir el programa para poder realizar el siguiente paso a paso.
+  
+  1) Abrir una terminal con la powershell o git bash en el directorio del proyecto "FullStack-Aplication-Dockerized"
+  2) Ejecutar el comando "docker compose up"
+  3) La aplicación deberá desplegarse en el "Docker Desktop"
+  4) Se verá de la siguiente manera:
+     
+  ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/a6f143bb-1681-40a7-9d5f-5fcb6cc1c12d)
+
+
+
 Aplicación Integrada de Gestión de Recursos Humanos con React JS, Spring Boot y PostgreSQL
 ¡Bienvenido al repositorio del proyecto de la Aplicación Integrada de Gestión de Recursos Humanos! En esta versión actualizada, hemos dockerizado la aplicación para una implementación más sencilla y hemos migrado la base de datos de MySQL a PostgreSQL para una mayor escalabilidad y rendimiento. La aplicación sigue utilizando las tecnologías poderosas de React JS y Spring Boot.
 
