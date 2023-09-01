@@ -5,6 +5,7 @@ Desarrollé esta emocionante aplicación FullStack que combina tecnologías como
 
 ![Reac+Spring+Postgres+Docker](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/0055cb31-8acf-46f2-a351-51a63471d625)
 
+
 Guía de Despliegue
 
 Para poner en marcha esta aplicación utilizando Docker, sigue estos sencillos pasos:
