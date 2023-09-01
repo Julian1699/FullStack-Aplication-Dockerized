@@ -3,7 +3,7 @@
 
 Desarrollé esta emocionante aplicación FullStack que combina tecnologías como React, Spring Boot, PostgreSQL y Docker para una experiencia robusta y fluida.
 
-  ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/f280a804-7cda-4f7c-815b-cc09b9252262)
+![Reac+Spring+Postgres+Docker](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/0055cb31-8acf-46f2-a351-51a63471d625)
 
 Guía de Despliegue
 
