@@ -1,15 +1,26 @@
 # FullStack-Aplication-Dockerized
 | React | SpringBoot | PostgreSQL | Docker |
 
+Desarrollé esta emocionante aplicación FullStack que combina tecnologías como React, Spring Boot, PostgreSQL y Docker para una experiencia robusta y fluida.
 
   ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/f280a804-7cda-4f7c-815b-cc09b9252262)
 
-- Para desplegar la aplicacion con Docker, es necesario tener instalado "Docker Desktop" y abrir el programa para poder realizar el siguiente paso a paso.
+Guía de Despliegue
+
+Para poner en marcha esta aplicación utilizando Docker, sigue estos sencillos pasos:
+
+1) Asegúrate de tener instalado "Docker Desktop" en tu sistema y ábrelo para continuar con el proceso.
+
+2) Abre una terminal en la ubicación del proyecto "FullStack-Aplication-Dockerized". Puedes utilizar PowerShell o Git Bash para ello.
+
+3) Ejecuta el siguiente comando para iniciar la aplicación en Docker: docker-compose up
+
+4) Una vez completado, podrás acceder a la aplicación desplegada en "Docker Desktop".
+     
+  ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/f754fa53-c8fb-46a9-9598-57956f6a4836)
   
-  1) Abrir una terminal con la powershell o git bash en el directorio del proyecto "FullStack-Aplication-Dockerized"
-  2) Ejecutar el comando "docker compose up"
-  3) La aplicación deberá desplegarse en el "Docker Desktop"
-  4) Se verá de la siguiente manera:
+5) Para interactuar con la aplicación, simplemente ingresa a la dirección: http://localhost:3000/
+¡Espero que disfrutes explorando esta aplicación FullStack que incorpora diversas tecnologías y está lista para ser ejecutada con Docker!
      
   ![image](https://github.com/Julian1699/FullStack-Aplication-Dockerized/assets/114323630/a6f143bb-1681-40a7-9d5f-5fcb6cc1c12d)
 
